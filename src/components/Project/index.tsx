@@ -17,6 +17,7 @@ interface ReposType {
   language: string;
   description: string;
   git_url: string;
+  html_url: string;
   homepage: string;
 }
 
